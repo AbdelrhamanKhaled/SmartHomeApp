@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/howToFragment"
+        android:icon="@drawable/how_to"
+        android:title="How to?" />
+    <item
+        android:id="@+id/categoryFragment"
+        android:icon="@drawable/my_commands"
+        android:title="Category" />
+    <item
+        android:id="@+id/favouriteFragment"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:title="My Commands" />
+    <item
+        android:id="@+id/settingsFragment"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Settings" />
+</menu>

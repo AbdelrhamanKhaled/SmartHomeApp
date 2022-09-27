@@ -1,0 +1,793 @@
+{
+  "items": [
+    {
+      "title": "Basic Grammar",
+      "content": [
+        {
+          "tag_line": "Definition",
+          "details": [
+            "<p>commands for alexa 1701</p>",
+            "<p>commands for alexa 1702</p>",
+            "<p>commands for alexa 1703</p>",
+            "<p>commands for alexa 1704</p>"
+          ]
+        },
+        {
+          "tag_line": "Letter and Word",
+          "details": [
+            "<p>commands for alexa 1691</p>",
+            "<p>commands for alexa 1692</p>",
+            "<p>commands for alexa 1693</p>",
+            "<p>commands for alexa 1694</p>"
+          ]
+        },
+        {
+          "tag_line": "Number",
+          "details": [
+            "<p>commands for alexa 1681</p>",
+            "<p>commands for alexa 1682</p>",
+            "<p>commands for alexa 1683</p>",
+            "<p>commands for alexa 1684</p>"
+          ]
+        },
+        {
+          "tag_line": "Gender",
+          "details": [
+            "<p>commands for alexa 1671</p>",
+            "<p>commands for alexa 1672</p>",
+            "<p>commands for alexa 1673</p>",
+            "<p>commands for alexa 1674</p>"
+          ]
+        },
+        {
+          "tag_line": "Person",
+          "details": [
+            "<p>commands for alexa 1661</p>",
+            "<p>commands for alexa 1662</p>",
+            "<p>commands for alexa 1663</p>",
+            "<p>commands for alexa 1664</p>"
+          ]
+        },
+        {
+          "tag_line": "Case",
+          "details": [
+            "<p>commands for alexa 1651</p>",
+            "<p>commands for alexa 1652</p>",
+            "<p>commands for alexa 1653</p>",
+            "<p>commands for alexa 1654</p>"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sentence",
+      "content": [
+        {
+          "tag_line": "Definition",
+          "details": [
+            "<p>commands for alexa 1641</p>",
+            "<p>commands for alexa 1642</p>",
+            "<p>commands for alexa 1643</p>",
+            "<p>commands for alexa 1644</p>"
+          ]
+        },
+        {
+          "tag_line": "Assertive Sentence",
+          "details": [
+            "<p>commands for alexa 1631</p>",
+            "<p>commands for alexa 1632</p>",
+            "<p>commands for alexa 1633</p>",
+            "<p>commands for alexa 1634</p>"
+          ]
+        },
+        {
+          "tag_line": "Interrogative Sentence",
+          "details": [
+            "<p>commands for alexa 1621</p>",
+            "<p>commands for alexa 1622</p>",
+            "<p>commands for alexa 1623</p>",
+            "<p>commands for alexa 1624</p>"
+          ]
+        },
+        {
+          "tag_line": "Imperative Sentence",
+          "details": [
+            "<p>commands for alexa 161</p>",
+            "<p>commands for alexa 1611</p>",
+            "<p>commands for alexa 1612</p>",
+            "<p>commands for alexa 1613</p>"
+          ]
+        },
+        {
+          "tag_line": "Optative Sentence",
+          "details": [
+            "<p>commands for alexa 1601</p>",
+            "<p>commands for alexa 1602</p>",
+            "<p>commands for alexa 1603</p>",
+            "<p>commands for alexa 1604</p>"
+          ]
+        },
+        {
+          "tag_line": "Exclamatory Sentence",
+          "details": [
+            "<p>commands for alexa 1591</p>",
+            "<p>commands for alexa 1592</p>",
+            "<p>commands for alexa 1593</p>",
+            "<p>commands for alexa 1594</p>"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Parts of Speech",
+      "content": [
+        {
+          "tag_line": "Definition",
+          "details": [
+            "<p>commands for alexa 1581</p>",
+            "<p>commands for alexa 1582</p>",
+            "<p>commands for alexa 1583</p>",
+            "<p>commands for alexa 1584</p>"
+          ]
+        },
+        {
+          "tag_line": "Noun",
+          "details": [
+            "<p>commands for alexa 1571</p>",
+            "<p>commands for alexa 1572</p>",
+            "<p>commands for alexa 1573</p>",
+            "<p>commands for alexa 1574</p>"
+          ]
+        },
+        {
+          "tag_line": "Pronoun",
+          "details": [
+            "<p>commands for alexa 156</p>",
+            "<p>commands for alexa 156</p>",
+            "<p>commands for alexa 156</p>",
+            "<p>commands for alexa 156</p>"
+          ]
+        },
+        {
+          "tag_line": "Adjective",
+          "details": [
+            "<p>commands for alexa 1551</p>",
+            "<p>commands for alexa 1552</p>",
+            "<p>commands for alexa 1553</p>",
+            "<p>commands for alexa 1554</p>"
+          ]
+        },
+        {
+          "tag_line": "Verb",
+          "details": [
+            "<p>commands for alexa 1541</p>",
+            "<p>commands for alexa 1542</p>",
+            "<p>commands for alexa 1543</p>",
+            "<p>commands for alexa 1544</p>"
+          ]
+        },
+        {
+          "tag_line": "Adverb",
+          "details": [
+            "<p>commands for alexa 1531</p>",
+            "<p>commands for alexa 1532</p>",
+            "<p>commands for alexa 1533</p>",
+            "<p>commands for alexa 1534</p>"
+          ]
+        },
+        {
+          "tag_line": "Preposition",
+          "details": [
+            "<p>commands for alexa 1521</p>",
+            "<p>commands for alexa 1522</p>",
+            "<p>commands for alexa 1523</p>",
+            "<p>commands for alexa 1524</p>"
+          ]
+        },
+        {
+          "tag_line": "Conjunction",
+          "details": [
+            "<p>commands for alexa 1511</p>",
+            "<p>commands for alexa 1512</p>",
+            "<p>commands for alexa 1513</p>",
+            "<p>commands for alexa 1514</p>"
+          ]
+        },
+        {
+          "tag_line": "Interjection",
+          "details": [
+            "<p>commands for alexa 1501</p>",
+            "<p>commands for alexa 1502</p>",
+            "<p>commands for alexa 1503</p>",
+            "<p>commands for alexa 1504</p>"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Preposition",
+      "content": [
+        {
+          "tag_line": "Definition",
+          "details": [
+            "<p>commands for alexa 1491</p>",
+            "<p>commands for alexa 1492</p>",
+            "<p>commands for alexa 1493</p>",
+            "<p>commands for alexa 1494</p>"
+          ]
+        },
+        {
+          "tag_line": "At",
+          "details": [
+            "<p>commands for alexa 1481</p>",
+            "<p>commands for alexa 1482</p>",
+            "<p>commands for alexa 1483</p>",
+            "<p>commands for alexa 1484</p>"
+          ]
+        },
+        {
+          "tag_line": "About",
+          "details": [
+            "<p>commands for alexa 1471</p>",
+            "<p>commands for alexa 1472</p>",
+            "<p>commands for alexa 1473</p>",
+            "<p>commands for alexa 1474</p>"
+          ]
+        },
+        {
+          "tag_line": "After",
+          "details": [
+            "<p>commands for alexa 1461</p>",
+            "<p>commands for alexa 1462</p>",
+            "<p>commands for alexa 1463</p>",
+            "<p>commands for alexa 1464</p>"
+          ]
+        },
+        {
+          "tag_line": "By",
+          "details": [
+            "<p>commands for alexa 1451</p>",
+            "<p>commands for alexa 1452</p>",
+            "<p>commands for alexa 1453</p>",
+            "<p>commands for alexa 1454</p>"
+          ]
+        },
+        {
+          "tag_line": "Before",
+          "details": [
+            "<p>commands for alexa 1441</p>",
+            "<p>commands for alexa 1442</p>",
+            "<p>commands for alexa 1443</p>",
+            "<p>commands for alexa 1444</p>"
+          ]
+        },
+        {
+          "tag_line": "For",
+          "details": [
+            "<p>commands for alexa 1431</p>",
+            "<p>commands for alexa 1432</p>",
+            "<p>commands for alexa 1433</p>",
+            "<p>commands for alexa 1434</p>"
+          ]
+        },
+        {
+          "tag_line": "In",
+          "details": [
+            "<p>commands for alexa 1421</p>",
+            "<p>commands for alexa 1422</p>",
+            "<p>commands for alexa 1423</p>",
+            "<p>commands for alexa 1424</p>"
+          ]
+        },
+        {
+          "tag_line": "On",
+          "details": [
+            "<p>commands for alexa 1411</p>",
+            "<p>commands for alexa 1412</p>",
+            "<p>commands for alexa 1413</p>",
+            "<p>commands for alexa 1414</p>"
+          ]
+        },
+        {
+          "tag_line": "Of",
+          "details": [
+            "<p>commands for alexa 1401</p>",
+            "<p>commands for alexa 1403</p>",
+            "<p>commands for alexa 1402</p>",
+            "<p>commands for alexa 1404</p>"
+          ]
+        },
+        {
+          "tag_line": "To",
+          "details": [
+            "<p>commands for alexa 1391</p>",
+            "<p>commands for alexa 1392</p>",
+            "<p>commands for alexa 1393</p>",
+            "<p>commands for alexa 1394</p>"
+          ]
+        },
+        {
+          "tag_line": "Under",
+          "details": [
+            "<p>commands for alexa 1381</p>",
+            "<p>commands for alexa 1383</p>",
+            "<p>commands for alexa 1382</p>",
+            "<p>commands for alexa 1384</p>"
+          ]
+        },
+        {
+          "tag_line": "On, In, At",
+          "details": [
+            "<p>commands for alexa 1371</p>",
+            "<p>commands for alexa 1372</p>",
+            "<p>commands for alexa 1373</p>",
+            "<p>commands for alexa 1374</p>"
+          ]
+        },
+        {
+          "tag_line": "Since, For",
+          "details": [
+            "<p>commands for alexa 1361</p>",
+            "<p>commands for alexa 1362</p>",
+            "<p>commands for alexa 1363</p>",
+            "<p>commands for alexa 1364</p>"
+          ]
+        },
+        {
+          "tag_line": "Over",
+          "details": [
+            "<p>commands for alexa 1351</p>",
+            "<p>commands for alexa 1352</p>",
+            "<p>commands for alexa 1353</p>",
+            "<p>commands for alexa 1354</p>"
+          ]
+        },
+        {
+          "tag_line": "Off",
+          "details": [
+            "<p>commands for alexa 1341</p>",
+            "<p>commands for alexa 1342</p>",
+            "<p>commands for alexa 1343</p>",
+            "<p>commands for alexa 1344</p>"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Article",
+      "content": [
+        {
+          "tag_line": "Definition",
+          "details": [
+            "<p>commands for alexa 1331</p>",
+            "<p>commands for alexa 1332</p>",
+            "<p>commands for alexa 1333</p>",
+            "<p>commands for alexa 1334</p>"
+          ]
+        },
+        {
+          "tag_line": "A/An",
+          "details": [
+            "<p>commands for alexa 1321</p>",
+            "<p>commands for alexa 1322</p>",
+            "<p>commands for alexa 1323</p>",
+            "<p>commands for alexa 1324</p>"
+          ]
+        },
+        {
+          "tag_line": "The",
+          "details": [
+            "<p>commands for alexa 1311</p>",
+            "<p>commands for alexa 1312</p>",
+            "<p>commands for alexa 1313</p>",
+            "<p>commands for alexa 1314</p>"
+          ]
+        },
+        {
+          "tag_line": "Omission of A/An",
+          "details": [
+            "<p>commands for alexa 1301</p>",
+            "<p>commands for alexa 1302</p>",
+            "<p>commands for alexa 1303</p>",
+            "<p>commands for alexa 1304</p>"
+          ]
+        },
+        {
+          "tag_line": "Omission of The",
+          "details": [
+            "<p>commands for alexa 1291</p>",
+            "<p>commands for alexa 1292</p>",
+            "<p>commands for alexa 1293</p>",
+            "<p>commands for alexa 1294</p>"
+          ]
+        },
+        {
+          "tag_line": "Repetition of Article",
+          "details": [
+            "<p>commands for alexa 1281</p>",
+            "<p>commands for alexa 1282</p>",
+            "<p>commands for alexa 1283</p>",
+            "<p>commands for alexa 1284</p>"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tense",
+      "content": [
+        {
+          "tag_line": "Definition",
+          "details": [
+            "<p>commands for alexa 1271</p>",
+            "<p>commands for alexa 1272</p>",
+            "<p>commands for alexa 1273</p>",
+            "<p>commands for alexa 1274</p>"
+          ]
+        },
+        {
+          "tag_line": "Present Tense",
+          "details": [
+            "<p>commands for alexa 12621</p>",
+            "<p>commands for alexa 1261</p>",
+            "<p>commands for alexa 1263</p>",
+            "<p>commands for alexa 1264</p>"
+          ]
+        },
+        {
+          "tag_line": "Past Tense",
+          "details": [
+            "<p>commands for alexa 1251</p>",
+            "<p>commands for alexa 1252</p>",
+            "<p>commands for alexa 1253</p>",
+            "<p>commands for alexa 1254</p>"
+          ]
+        },
+        {
+          "tag_line": "Future Tense",
+          "details": [
+            "<p>commands for alexa 1241</p>",
+            "<p>commands for alexa 1242</p>",
+            "<p>commands for alexa 1243</p>",
+            "<p>commands for alexa 1244</p>"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Voice",
+      "content": [
+        {
+          "tag_line": "Definition",
+          "details": [
+            "<p>commands for alexa 1231</p>",
+            "<p>commands for alexa 1233</p>",
+            "<p>commands for alexa 1232</p>",
+            "<p>commands for alexa 1234</p>"
+          ]
+        },
+        {
+          "tag_line": "Active to Passive",
+          "details": [
+            "<p>commands for alexa 1221</p>",
+            "<p>commands for alexa 1222</p>",
+            "<p>commands for alexa 1223</p>",
+            "<p>commands for alexa 1224</p>"
+          ]
+        },
+        {
+          "tag_line": "Passive to Active",
+          "details": [
+            "<p>commands for alexa 1211</p>",
+            "<p>commands for alexa 1212</p>",
+            "<p>commands for alexa 1213</p>",
+            "<p>commands for alexa 1214</p>"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Completing Sentence",
+      "content": [
+        {
+          "tag_line": "Complex Sentence",
+          "details": [
+            "<p>commands for alexa 1201</p>",
+            "<p>commands for alexa 1202</p>",
+            "<p>commands for alexa 1203</p>",
+            "<p>commands for alexa 1204</p>"
+          ]
+        },
+        {
+          "tag_line": "Clause",
+          "details": [
+            "<p>commands for alexa 1191</p>",
+            "<p>commands for alexa 1192</p>",
+            "<p>commands for alexa 1193</p>",
+            "<p>commands for alexa 1194</p>"
+          ]
+        },
+        {
+          "tag_line": "Till/Until",
+          "details": [
+            "<p>commands for alexa 1181</p>",
+            "<p>commands for alexa 1182</p>",
+            "<p>commands for alexa 1183</p>",
+            "<p>commands for alexa 1184</p>"
+          ]
+        },
+        {
+          "tag_line": "When",
+          "details": [
+            "<p>commands for alexa 1171</p>",
+            "<p>commands for alexa 1172</p>",
+            "<p>commands for alexa 1173</p>",
+            "<p>commands for alexa 1174</p>"
+          ]
+        },
+        {
+          "tag_line": "After",
+          "details": [
+            "<p>commands for alexa 1161</p>",
+            "<p>commands for alexa 1162</p>",
+            "<p>commands for alexa 1163</p>",
+            "<p>commands for alexa 1164</p>"
+          ]
+        },
+        {
+          "tag_line": "While",
+          "details": [
+            "<p>commands for alexa 1151</p>",
+            "<p>commands for alexa 1152</p>",
+            "<p>commands for alexa 1153</p>",
+            "<p>commands for alexa 1154</p>"
+          ]
+        },
+        {
+          "tag_line": "While/Whereas",
+          "details": [
+            "<p>commands for alexa 1141</p>",
+            "<p>commands for alexa 1142</p>",
+            "<p>commands for alexa 1143</p>",
+            "<p>commands for alexa 1144</p>"
+          ]
+        },
+        {
+          "tag_line": "Before",
+          "details": [
+            "<p>commands for alexa 1131</p>",
+            "<p>commands for alexa 1132</p>",
+            "<p>commands for alexa 1133</p>",
+            "<p>commands for alexa 1134</p>"
+          ]
+        },
+        {
+          "tag_line": "Because/As/Since",
+          "details": [
+            "<p>commands for alexa 1121</p>",
+            "<p>commands for alexa 1122</p>",
+            "<p>commands for alexa 1123</p>",
+            "<p>commands for alexa 1124</p>"
+          ]
+        },
+        {
+          "tag_line": "As",
+          "details": [
+            "<p>commands for alexa 1111</p>",
+            "<p>commands for alexa 1112</p>",
+            "<p>commands for alexa 1113</p>",
+            "<p>commands for alexa 1114</p>"
+          ]
+        },
+        {
+          "tag_line": "As soon as",
+          "details": [
+            "<p>commands for alexa 1101</p>",
+            "<p>commands for alexa 1102</p>",
+            "<p>commands for alexa 1103</p>",
+            "<p>commands for alexa 1104</p>"
+          ]
+        },
+        {
+          "tag_line": "Unless",
+          "details": [
+            "<p>commands for alexa 1091</p>",
+            "<p>commands for alexa 1093</p>",
+            "<p>commands for alexa 1094</p>",
+            "<p>commands for alexa 10911</p>"
+          ]
+        },
+        {
+          "tag_line": "As if/As though",
+          "details": [
+            "<p>commands for alexa 1082</p>",
+            "<p>commands for alexa 1081</p>",
+            "<p>commands for alexa 1083</p>",
+            "<p>commands for alexa 1084</p>"
+          ]
+        },
+        {
+          "tag_line": "In case",
+          "details": [
+            "<p>commands for alexa 1071</p>",
+            "<p>commands for alexa 1072</p>",
+            "<p>commands for alexa 10734</p>",
+            "<p>commands for alexa 1074</p>"
+          ]
+        },
+        {
+          "tag_line": "Lest",
+          "details": [
+            "<p>commands for alexa 1061</p>",
+            "<p>commands for alexa 1062</p>",
+            "<p>commands for alexa 1063</p>",
+            "<p>commands for alexa 1064</p>"
+          ]
+        },
+        {
+          "tag_line": "So ... that",
+          "details": [
+            "<p>commands for alexa 1051</p>",
+            "<p>commands for alexa 1052</p>",
+            "<p>commands for alexa 1053</p>",
+            "<p>commands for alexa 1054</p>"
+          ]
+        },
+        {
+          "tag_line": "As ... as",
+          "details": [
+            "<p>commands for alexa 1041</p>",
+            "<p>commands for alexa 1042</p>",
+            "<p>commands for alexa 1043</p>",
+            "<p>commands for alexa 1044</p>"
+          ]
+        },
+        {
+          "tag_line": "As long as",
+          "details": [
+            "<p>commands for alexa 1031</p>",
+            "<p>commands for alexa 1032</p>",
+            "<p>commands for alexa 1033</p>",
+            "<p>commands for alexa 1034</p>"
+          ]
+        },
+        {
+          "tag_line": "Had better",
+          "details": [
+            "<p>commands for alexa 1021</p>",
+            "<p>commands for alexa 1023</p>",
+            "<p>commands for alexa 1023</p>",
+            "<p>commands for alexa 1024</p>"
+          ]
+        },
+        {
+          "tag_line": "Whom/Who",
+          "details": [
+            "<p>commands for alexa 1011</p>",
+            "<p>commands for alexa 1012</p>",
+            "<p>commands for alexa 1013</p>",
+            "<p>commands for alexa 1014</p>"
+          ]
+        },
+        {
+          "tag_line": "Whose",
+          "details": [
+            "<p>commands for alexa 1001</p>",
+            "<p>commands for alexa 1002</p>",
+            "<p>commands for alexa 1003</p>",
+            "<p>commands for alexa 1004</p>"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tag question",
+      "content": [
+        {
+          "tag_line": "Definition",
+          "details": [
+            "<p>commands for alexa 191</p>",
+            "<p>commands for alexa 192</p>",
+            "<p>commands for alexa 193</p>",
+            "<p>commands for alexa 194</p>"
+          ]
+        },
+        {
+          "tag_line": "Rules",
+          "details": [
+            "<p>commands for alexa 181</p>",
+            "<p>commands for alexa 182</p>",
+            "<p>commands for alexa 183</p>",
+            "<p>commands for alexa 184</p>"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Transformation of Sentence",
+      "content": [
+        {
+          "tag_line": "Affirmative to Negative",
+          "details": [
+            "<p>commands for alexa 171</p>",
+            "<p>commands for alexa 172</p>",
+            "<p>commands for alexa 173</p>",
+            "<p>commands for alexa 174</p>"
+          ]
+        },
+        {
+          "tag_line": "Assertive to Interrogative",
+          "details": [
+            "<p>commands for alexa 161</p>",
+            "<p>commands for alexa 162</p>",
+            "<p>commands for alexa 163</p>",
+            "<p>commands for alexa 164</p>"
+          ]
+        },
+        {
+          "tag_line": "Assertive to Imperative",
+          "details": [
+            "<p>commands for alexa 151</p>",
+            "<p>commands for alexa 152</p>",
+            "<p>commands for alexa 153</p>",
+            "<p>commands for alexa 154</p>"
+          ]
+        },
+        {
+          "tag_line": "Assertive to Exclamatory",
+          "details": [
+            "<p>commands for alexa 141</p>",
+            "<p>commands for alexa 142</p>",
+            "<p>commands for alexa 143</p>",
+            "<p>commands for alexa 144</p>"
+          ]
+        },
+        {
+          "tag_line": "Exclamatory to Assertive",
+          "details": [
+            "<p>commands for alexa 101</p>",
+            "<p>commands for alexa 103</p>",
+            "<p>commands for alexa 1011</p>",
+            "<p>commands for alexa 1033</p>"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Changing Narration",
+      "content": [
+        {
+          "tag_line": "Definition",
+          "details": [
+            "<p>commands for alexa 131</p>",
+            "<p>commands for alexa 132</p>",
+            "<p>commands for alexa 133</p>",
+            "<p>commands for alexa 134</p>"
+          ]
+        },
+        {
+          "tag_line": "Changing Narration - Rules",
+          "details": [
+            "<p>commands for alexa 111</p>",
+            "<p>commands for alexa 112</p>",
+            "<p>commands for alexa 113</p>",
+            "<p>commands for alexa 114</p>"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Message from Developer",
+      "content": [
+        {
+          "tag_line": "Message Text",
+          "details": [
+            "<p>commands for alexa 121</p>",
+            "<p>commands for alexa 123</p>",
+            "<p>commands for alexa 122</p>",
+            "<p>commands for alexa 124</p>"
+          ]
+        }
+      ]
+    }
+  ]
+}

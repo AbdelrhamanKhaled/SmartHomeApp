@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SmartHomeApp/app/src/main/res/drawable/card_background.xml" value="0.1755" />
+        <entry key="..\:/SmartHomeApp/app/src/main/res/drawable/crad_back.xml" value="0.1755" />
+        <entry key="..\:/SmartHomeApp/app/src/main/res/drawable/gnt_rounded_corners_shape.xml" value="0.1755" />
+        <entry key="..\:/SmartHomeApp/app/src/main/res/drawable/header_back.xml" value="0.1755" />
+        <entry key="..\:/SmartHomeApp/app/src/main/res/drawable/how_to.xml" value="0.1755" />
+        <entry key="..\:/SmartHomeApp/app/src/main/res/drawable/ic_baseline_bluetooth_24.xml" value="0.1755" />
+        <entry key="..\:/SmartHomeApp/app/src/main/res/drawable/statue_bar_back.xml" value="0.1755" />
+        <entry key="..\:/SmartHomeApp/app/src/main/res/layout/activity_commands.xml" value="0.25" />
+        <entry key="..\:/SmartHomeApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/SmartHomeApp/app/src/main/res/layout/ads_list_item_commands.xml" value="0.20416666666666666" />
+        <entry key="..\:/SmartHomeApp/app/src/main/res/layout/ads_list_item_titles_commands.xml" value="0.1" />
+        <entry key="..\:/SmartHomeApp/app/src/main/res/layout/articles_item_view.xml" value="0.18" />
+        <entry key="..\:/SmartHomeApp/app/src/main/res/layout/command_item_view.xml" value="0.25" />
+        <entry key="..\:/SmartHomeApp/app/src/main/res/layout/commands_category_itemview.xml" value="0.18" />
+        <entry key="..\:/SmartHomeApp/app/src/main/res/layout/favourite_command_itemview.xml" value="0.203125" />
+        <entry key="..\:/SmartHomeApp/app/src/main/res/layout/fragment_category.xml" value="0.2" />
+        <entry key="..\:/SmartHomeApp/app/src/main/res/layout/fragment_favourite.xml" value="0.25" />
+        <entry key="..\:/SmartHomeApp/app/src/main/res/layout/fragment_how_to.xml" value="0.20416666666666666" />
+        <entry key="..\:/SmartHomeApp/app/src/main/res/layout/fragment_settings.xml" value="0.22" />
+        <entry key="..\:/SmartHomeApp/app/src/main/res/layout/header_screen.xml" value="0.22" />
+        <entry key="..\:/SmartHomeApp/app/src/main/res/layout/statues_back_color.xml" value="0.20416666666666666" />
+        <entry key="..\:/SmartHomeApp/app/src/main/res/layout/title_list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/SmartHomeApp/app/src/main/res/layout/tp_native_ad_list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/SmartHomeApp/app/src/main/res/menu/bottom_bar_menu.xml" value="0.7029126213592233" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

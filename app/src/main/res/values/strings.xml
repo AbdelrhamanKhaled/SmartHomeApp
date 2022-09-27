@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartHomeApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="share_email_body">I\'m using %1$s! an awesome app! Get the free app at</string>
+    <string name="playStore_link">http://play.google.com/store/apps/details?id=</string>
+    <string name="err_no_app_found">No application found to perform this action.</string>
+</resources>
